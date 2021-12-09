@@ -21,6 +21,6 @@ class Ball(Turtle):
         self.x_delta *= -1
 
     def reset_position(self):
-            self.goto(0, 0)
-            self.x_delta *= -1
-            self.y_delta *= -1
+        self.goto(0, 0)
+        self.x_delta *= -1
+        self.y_delta *= -1
