@@ -1,7 +1,7 @@
 from turtle import Turtle
 
-WIDTH = 1000
-HEIGHT = 800
+WIDTH = 800
+HEIGHT = 600
 
 
 class Paddle(Turtle):
